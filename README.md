@@ -3,9 +3,9 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/segmentq/casbin-segmentq-adapter)](https://goreportcard.com/report/github.com/segmentq/casbin-segmentq-adapter)
 [![Go Reference](https://pkg.go.dev/badge/github.com/segmentq/casbin-segmentq-adapter.svg)](https://pkg.go.dev/github.com/segmentq/casbin-segmentq-adapter)
 [![Build](https://github.com/segmentq/casbin-segmentq-adapter/actions/workflows/build.yml/badge.svg)](https://github.com/segmentq/casbin-segmentq-adapter/actions/workflows/build.yml)
-[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=segmentq_casbin_segmentq_adapter&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=segmentq_casbin_segmentq_adapter)
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=segmentq_casbin_segmentq_adapter&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=segmentq_casbin_segmentq_adapter)
-[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=segmentq_casbin_segmentq_adapter&metric=coverage)](https://sonarcloud.io/summary/new_code?id=segmentq_casbin_segmentq_adapter)
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=segmentq_casbin-segmentq-adapter&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=segmentq_casbin-segmentq-adapter)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=segmentq_casbin-segmentq-adapter&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=segmentq_casbin-segmentq-adapter)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=segmentq_casbin-segmentq-adapter&metric=coverage)](https://sonarcloud.io/summary/new_code?id=segmentq_casbin-segmentq-adapter)
 
 The [SegmentQ DB](https://github.com/segmentq/db) adapter for [Casbin](https://github.com/casbin/casbin). 
 You can use this library to load and save policies to an SegmentQ DB.
