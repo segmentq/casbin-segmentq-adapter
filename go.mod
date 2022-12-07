@@ -1,4 +1,4 @@
-module casbin-segmentq-adapter
+module github.com/segmentq/casbin-segmentq-adapter
 
 go 1.19
 
