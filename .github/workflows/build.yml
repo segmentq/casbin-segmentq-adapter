@@ -54,7 +54,7 @@ jobs:
           SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
         with:
           args: >
-            -Dsonar.projectKey=segmentq_casbin_segmentq_adapter
+            -Dsonar.projectKey=segmentq_casbin-segmentq-adapter
             -Dsonar.organization=segmentq
             -Dsonar.sources=.
             -Dsonar.exclusions=**/*_test.go,**/vendor/**,**/testdata/*
