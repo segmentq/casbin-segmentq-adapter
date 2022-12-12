@@ -3,7 +3,7 @@ module github.com/segmentq/casbin-segmentq-adapter
 go 1.19
 
 require (
-	github.com/casbin/casbin/v2 v2.59.0
+	github.com/casbin/casbin/v2 v2.60.0
 	github.com/mmcloughlin/meow v0.0.0-20200201185800-3501c7c05d21
 	github.com/segmentq/db v0.0.0-20221207220040-12af8fd5dc1e
 	github.com/segmentq/protos-api-go v0.0.0-20221127133954-a44e5e92a6e9
