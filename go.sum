@@ -15,8 +15,8 @@ github.com/mmcloughlin/meow v0.0.0-20200201185800-3501c7c05d21/go.mod h1:uxCZJI8
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
 github.com/segmentq/db v0.0.0-20221207220040-12af8fd5dc1e h1:LzUV0Ix17XCnUUGemK0RguqXBwgi6q+0nLS3eEtr3fg=
 github.com/segmentq/db v0.0.0-20221207220040-12af8fd5dc1e/go.mod h1:qGcKQjhDWu8JSQ5+q/A6DqFWLJ2alLMvIMdvqHGjQuY=
-github.com/segmentq/protos-api-go v0.0.0-20221127133954-a44e5e92a6e9 h1:JHN6qnWzHMkEWVb5RF0G9gW5oEgZPnTCmNZrOfDPXaI=
-github.com/segmentq/protos-api-go v0.0.0-20221127133954-a44e5e92a6e9/go.mod h1:xRpA4dXRzg+/Ph8EU3WemqUBQe2uoUg1l32fh/wKcXA=
+github.com/segmentq/protos-api-go v0.5.2 h1:wDgTv7FAwKc/jyUYTDJUAxc28uAsAfgEOTvSwRPzdGI=
+github.com/segmentq/protos-api-go v0.5.2/go.mod h1:xRpA4dXRzg+/Ph8EU3WemqUBQe2uoUg1l32fh/wKcXA=
 github.com/stretchr/testify v1.8.1 h1:w7B6lhMri9wdJUVmEZPGGhZzrYTPvgJArz7wNPgYKsk=
 github.com/tidwall/assert v0.1.0 h1:aWcKyRBUAdLoVebxo95N7+YZVTFF/ASTr7BN4sLP6XI=
 github.com/tidwall/btree v1.4.4 h1:tOsRz2Upq6BEJz8T++C6THzNh9xGWymBOOSfA7ffNXY=
